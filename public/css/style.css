@@ -1,0 +1,36 @@
+img.imgBorrar {
+    margin-left: 30px;
+    margin-right: 30px;
+    vertical-align: bottom;
+}
+
+label.productoComprado {
+    text-shadow: 2px 2px 2px red;
+    font-size: 20px;
+}
+
+label.productoPendiente {
+    font-size: 20px;
+}
+
+tr.filaComprado {
+    background: lightskyblue;
+    font-family: sans-serif;
+    border-bottom: 1pt solid black;
+}
+
+tr.filaComprado td {
+    border-bottom: 1pt solid black;
+    border-top: 1pt solid black;
+}
+
+tr.filaPendiente {
+    background: lightyellow;
+    font-family: sans-serif;
+    border-bottom: 1pt solid black;
+}
+
+tr.filaPendiente td {
+    border-bottom: 1pt solid black;
+    border-top: 1pt solid black;
+}
